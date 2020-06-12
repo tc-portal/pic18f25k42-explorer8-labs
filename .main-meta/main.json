@@ -4,17 +4,17 @@
     "content": {
         "metaDataVersion": "1.0.0",
         "name": "com.microchip.mcu8.mplabx.project.explorer_8_labs",
-        "version": "1.75.2",
+        "version": "1.80.3",
         "displayName": "Explorer-8 Labs",
         "projectName": "PIC18F25K42-explorer-8-labs",
         "shortDescription": "11 labs that will demonstrate Explorer 8 board capabilities and showcase the functionality of PIC18F25K42 device.",
         "ide": {
             "name": "MPLABX",
-            "semverRange": ">=5.30.0"
+            "semverRange": ">=5.35.0"
         },
         "compiler": {
             "name": "XC8",
-            "semverRange": "^5.30"
+            "semverRange": "^5.35"
         },
         "dfp": {
             "name": "PIC18F25K42_DFP",
@@ -22,7 +22,7 @@
         },
         "configurator": {
             "name": "MCC",
-            "semverRange": ">=3.75"
+            "semverRange": ">=3.80"
         },
         "device": {
             "metaDataVersion": "1.0.0",
